@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaboration
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 07769578572
+- 📫 How to reach me awofolashade@yahoo.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: 
 
