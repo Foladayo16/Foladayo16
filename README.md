@@ -10,7 +10,7 @@
 - 📫 How to reach me:  awofolashade@yahoo.com
 - ⚡ Fun fact: I take a break when a task becomes too difficult but will never give up on it.
 
-## My Skills 🧠
+## My Skills 🧠 https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
